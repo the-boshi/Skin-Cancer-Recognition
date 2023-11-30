@@ -1,0 +1,6 @@
+dataset/ISIC_2019_Training_Input/
+SCR-env/
+src/__pycache__/
+src/test.ipynb
+src/plot_loss.ipynb
+src/old_model.py
