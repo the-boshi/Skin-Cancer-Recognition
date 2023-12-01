@@ -1,2 +1,2 @@
-This is a convolutional neural network trained to classify different types of skin cancer, impimented in PyTorch. <br/>
-The data that was used is from the ISIC2019 Challenge, and the network architecture is the EfficientNet.
+This convolutional neural network implemented in PyTorch is trained to classify different types of skin cancer. <br>
+The data used is from the ISIC2019 Challenge, and the network architecture is the EfficientNet.
